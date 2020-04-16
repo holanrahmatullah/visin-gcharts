@@ -11,25 +11,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             // mengambil data row
             $data=$dataJson[2]->data;
 
-            // // // memanggil fungsi region()
-            // $output['region']=$this->region($data);
-            // // memanggil fungsi sales()
-            // $output['sales']=$this->sales($data);
-            // // memanggil fungsi produk
-            // $output['produk']=$this->produk($data);
-            // // menampilkan bulanan()
-            // $output['bulanan']=$this->bulanan($data);
-            // $output['total_produk_region']=$this->total_produk_region($data);
-            // $output['total_penjualan']=$this->total_penjualan($data);
-            // $this->load->view('visin',$output);
+            // // memanggil fungsi region()
+            $output['region']=$this->region($data);
+            // memanggil fungsi sales()
+            $output['sales']=$this->sales($data);
+            // memanggil fungsi produk
+            $output['produk']=$this->produk($data);
+            // menampilkan bulanan()
+            $output['bulanan']=$this->bulanan($data);
+            $output['total_produk_region']=$this->total_produk_region($data);
+            $output['total_penjualan']=$this->total_penjualan($data);
+            $this->load->view('visin',$output);
             
             
         
             // mengirim variable $output ke view
 
       
-            $orderan_sales=$this->orderan_sales($data);
-            echo json_encode($orderan_sales);
+            // $region=$this->region($data);
+            // echo json_encode($region);
            
             //    //$this->load->view('visin');
         }
@@ -230,53 +230,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 $dt=[$bulan[$i-1]];
                 foreach ($keys as $row ) {
                     array_push($dt,(int)$result[$row][$i]);
-                }
-                array_push($tabs,$dt);
-            }
-            return json_encode($tabs);
-
-        }
-        function orderan_sales($data)
-        {
-            $result=array();
-            foreach ($data as $row ) {
-                
-                // mengambil data tanggal
-                $time=strtotime($row->OrderDate);
-                $bulan=date('n',$time);
-                $tahun=date('Y',$time);
-                if(isset($result[$tahun]) == false)
-                {
-                    $result[$tahun][$bulan]=$row->Rep;
-                }else{
-                    if(isset($result[$tahun][$bulan]) == false)
-                    {
-                        $result[$tahun][$bulan]=$row->Rep;
-                    }else{
-                        $result[$tahun][$bulan]=$result[$tahun][$bulan]+ $row->Rep;
-
-                    }
-                }
-            };
-
-            // Mengkonversi index data $result kedalam array
-            $keys=array_keys($result);
-            // membuat data inisial
-            $tabs=[['Bulan']];
-            //menambhakan header data sesaui dengan tahun yang ditemukan
-            foreach ($keys as $row ) {
-                
-                array_push($tabs[0],$row);
-            }
-            // membuat data bulan dalam satu tahun
-            $bulan=['Jan','Feb','Mar','Apr','Mei','Jun','Jul','Agu','Sep','Okt','Nop','Des'];
-
-            // masukkan data penjualan bulanan kedalam tabulasi
-            for ($i=1;$i<12;$i++)
-            {
-                $dt=[$bulan[$i-1]];
-                foreach ($keys as $row ) {
-                    array_push($dt,$result[$row][$i]);
                 }
                 array_push($tabs,$dt);
             }
