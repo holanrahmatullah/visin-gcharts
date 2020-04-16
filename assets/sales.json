@@ -17,7 +17,7 @@
 				"Rep": "Kivell",
 				"Item": "Binder",
 				"Units": "50",
-				"UnitCost": " 19.99 ",
+				"UnitCost": "19.99",
 				"Total": "999.50"
 			},
 			{
@@ -26,7 +26,7 @@
 				"Rep": "Jardine",
 				"Item": "Pencil",
 				"Units": "36",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "179.64"
 			},
 			{
@@ -35,7 +35,7 @@
 				"Rep": "Gill",
 				"Item": "Pen",
 				"Units": "27",
-				"UnitCost": " 19.99 ",
+				"UnitCost": "19.99",
 				"Total": "539.73"
 			},
 			{
@@ -44,7 +44,7 @@
 				"Rep": "Andrews",
 				"Item": "Pencil",
 				"Units": "75",
-				"UnitCost": " 1.99 ",
+				"UnitCost": "1.99",
 				"Total": "149.25"
 			},
 			{
@@ -53,7 +53,7 @@
 				"Rep": "Jardine",
 				"Item": "Pencil",
 				"Units": "90",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "449.10"
 			},
 			{
@@ -62,7 +62,7 @@
 				"Rep": "Morgan",
 				"Item": "Pencil",
 				"Units": "90",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "449.10"
 			},
 			{
@@ -71,7 +71,7 @@
 				"Rep": "Smith",
 				"Item": "Desk",
 				"Units": "2",
-				"UnitCost": " 125.00 ",
+				"UnitCost": "125.00",
 				"Total": "250.00"
 			},
 			{
@@ -80,7 +80,7 @@
 				"Rep": "Morgan",
 				"Item": "Binder",
 				"Units": "28",
-				"UnitCost": " 8.99 ",
+				"UnitCost": "8.99",
 				"Total": "251.72"
 			},
 			{
@@ -89,7 +89,7 @@
 				"Rep": "Kivell",
 				"Item": "Pen Set",
 				"Units": "96",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "479.04"
 			},
 			{
@@ -98,7 +98,7 @@
 				"Rep": "Smith",
 				"Item": "Pencil",
 				"Units": "67",
-				"UnitCost": " 1.29 ",
+				"UnitCost": "1.29",
 				"Total": "86.43"
 			},
 			{
@@ -107,7 +107,7 @@
 				"Rep": "Gill",
 				"Item": "Binder",
 				"Units": "46",
-				"UnitCost": " 8.99 ",
+				"UnitCost": "8.99",
 				"Total": "413.54"
 			},
 			{
@@ -116,7 +116,7 @@
 				"Rep": "Smith",
 				"Item": "Binder",
 				"Units": "87",
-				"UnitCost": " 15.00 ",
+				"UnitCost": "15.00",
 				"Total": "1,305.00"
 			},
 			{
@@ -125,7 +125,7 @@
 				"Rep": "Jardine",
 				"Item": "Pen Set",
 				"Units": "50",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "249.50"
 			},
 			{
@@ -134,7 +134,7 @@
 				"Rep": "Andrews",
 				"Item": "Pencil",
 				"Units": "66",
-				"UnitCost": " 1.99 ",
+				"UnitCost": "1.99",
 				"Total": "131.34"
 			},
 			{
@@ -143,7 +143,7 @@
 				"Rep": "Gill",
 				"Item": "Pencil",
 				"Units": "53",
-				"UnitCost": " 1.29 ",
+				"UnitCost": "1.29",
 				"Total": "68.37"
 			},
 			{
@@ -152,7 +152,7 @@
 				"Rep": "Gill",
 				"Item": "Binder",
 				"Units": "80",
-				"UnitCost": " 8.99 ",
+				"UnitCost": "8.99",
 				"Total": "719.20"
 			},
 			{
@@ -161,7 +161,7 @@
 				"Rep": "Kivell",
 				"Item": "Desk",
 				"Units": "5",
-				"UnitCost": " 125.00 ",
+				"UnitCost": "125.00",
 				"Total": "625.00"
 			},
 			{
@@ -170,7 +170,7 @@
 				"Rep": "Morgan",
 				"Item": "Pen Set",
 				"Units": "55",
-				"UnitCost": " 12.49 ",
+				"UnitCost": "12.49",
 				"Total": "686.95"
 			},
 			{
@@ -179,7 +179,7 @@
 				"Rep": "Kivell",
 				"Item": "Pen Set",
 				"Units": "42",
-				"UnitCost": " 23.95 ",
+				"UnitCost": "23.95",
 				"Total": "1,005.90"
 			},
 			{
@@ -188,7 +188,7 @@
 				"Rep": "Gill",
 				"Item": "Pencil",
 				"Units": "7",
-				"UnitCost": " 1.29 ",
+				"UnitCost": "1.29",
 				"Total": "9.03"
 			},
 			{
@@ -197,7 +197,7 @@
 				"Rep": "Andrews",
 				"Item": "Pencil",
 				"Units": "14",
-				"UnitCost": " 1.29 ",
+				"UnitCost": "1.29",
 				"Total": "18.06"
 			},
 			{
@@ -206,7 +206,7 @@
 				"Rep": "Jardine",
 				"Item": "Binder",
 				"Units": "11",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "54.89"
 			},
 			{
@@ -215,7 +215,7 @@
 				"Rep": "Jardine",
 				"Item": "Binder",
 				"Units": "94",
-				"UnitCost": " 19.99 ",
+				"UnitCost": "19.99",
 				"Total": "1,879.06"
 			},
 			{
@@ -224,7 +224,7 @@
 				"Rep": "Andrews",
 				"Item": "Binder",
 				"Units": "28",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "139.72"
 			},
 			{
@@ -233,7 +233,7 @@
 				"Rep": "Jones",
 				"Item": "Pencil",
 				"Units": "95",
-				"UnitCost": " 1.99 ",
+				"UnitCost": "1.99",
 				"Total": "189.05"
 			},
 			{
@@ -242,7 +242,7 @@
 				"Rep": "Jones",
 				"Item": "Binder",
 				"Units": "60",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "299.40"
 			},
 			{
@@ -251,7 +251,7 @@
 				"Rep": "Jones",
 				"Item": "Binder",
 				"Units": "60",
-				"UnitCost": " 8.99 ",
+				"UnitCost": "8.99",
 				"Total": "539.40"
 			},
 			{
@@ -260,7 +260,7 @@
 				"Rep": "Howard",
 				"Item": "Binder",
 				"Units": "29",
-				"UnitCost": " 1.99 ",
+				"UnitCost": "1.99",
 				"Total": "57.71"
 			},
 			{
@@ -269,7 +269,7 @@
 				"Rep": "Parent",
 				"Item": "Binder",
 				"Units": "81",
-				"UnitCost": " 19.99 ",
+				"UnitCost": "19.99",
 				"Total": "1,619.19"
 			},
 			{
@@ -278,7 +278,7 @@
 				"Rep": "Jones",
 				"Item": "Pencil",
 				"Units": "35",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "174.65"
 			},
 			{
@@ -287,7 +287,7 @@
 				"Rep": "Jones",
 				"Item": "Pen Set",
 				"Units": "16",
-				"UnitCost": " 15.99 ",
+				"UnitCost": "15.99",
 				"Total": "255.84"
 			},
 			{
@@ -296,7 +296,7 @@
 				"Rep": "Jones",
 				"Item": "Pen",
 				"Units": "64",
-				"UnitCost": " 8.99 ",
+				"UnitCost": "8.99",
 				"Total": "575.36"
 			},
 			{
@@ -305,7 +305,7 @@
 				"Rep": "Parent",
 				"Item": "Pen",
 				"Units": "15",
-				"UnitCost": " 19.99 ",
+				"UnitCost": "19.99",
 				"Total": "299.85"
 			},
 			{
@@ -314,7 +314,7 @@
 				"Rep": "Parent",
 				"Item": "Pen Set",
 				"Units": "74",
-				"UnitCost": " 15.99 ",
+				"UnitCost": "15.99",
 				"Total": "1,183.26"
 			},
 			{
@@ -323,7 +323,7 @@
 				"Rep": "Jones",
 				"Item": "Binder",
 				"Units": "4",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "19.96"
 			},
 			{
@@ -332,7 +332,7 @@
 				"Rep": "Howard",
 				"Item": "Pen",
 				"Units": "96",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "479.04"
 			},
 			{
@@ -341,7 +341,7 @@
 				"Rep": "Jones",
 				"Item": "Pen Set",
 				"Units": "62",
-				"UnitCost": " 4.99 ",
+				"UnitCost": "4.99",
 				"Total": "309.38"
 			},
 			{
@@ -350,7 +350,7 @@
 				"Rep": "Sorvino",
 				"Item": "Pencil",
 				"Units": "56",
-				"UnitCost": " 2.99 ",
+				"UnitCost": "2.99",
 				"Total": "167.44"
 			},
 			{
@@ -359,7 +359,7 @@
 				"Rep": "Thompson",
 				"Item": "Pencil",
 				"Units": "32",
-				"UnitCost": " 1.99 ",
+				"UnitCost": "1.99",
 				"Total": "63.68"
 			},
 			{
@@ -368,7 +368,7 @@
 				"Rep": "Sorvino",
 				"Item": "Binder",
 				"Units": "7",
-				"UnitCost": " 19.99 ",
+				"UnitCost": "19.99",
 				"Total": "139.93"
 			},
 			{
@@ -377,7 +377,7 @@
 				"Rep": "Sorvino",
 				"Item": "Desk",
 				"Units": "3",
-				"UnitCost": " 275.00 ",
+				"UnitCost": "275.00",
 				"Total": "825.00"
 			},
 			{
@@ -386,7 +386,7 @@
 				"Rep": "Sorvino",
 				"Item": "Pen",
 				"Units": "76",
-				"UnitCost": " 1.99 ",
+				"UnitCost": "1.99",
 				"Total": "151.24"
 			},
 			{
@@ -395,7 +395,7 @@
 				"Rep": "Thompson",
 				"Item": "Binder",
 				"Units": "57",
-				"UnitCost": " 19.99 ",
+				"UnitCost": "19.99",
 				"Total": "1,139.43"
 			}
 		]
